@@ -1,0 +1,23 @@
+{
+  "name": "jolly-bot",
+  "version": "1.0.0",
+  "description": "First Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teeeedy/Jolly-Bot.git"
+  },
+  "author": "Teeeedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teeeedy/Jolly-Bot/issues"
+  },
+  "homepage": "https://github.com/Teeeedy/Jolly-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
